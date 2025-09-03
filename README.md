@@ -1,4 +1,4 @@
-# 📚 UniCafe – Fullstack Open Part 1 (Exercises 1.6–1.13)
+# 📚 UniCafe – Fullstack Open Part 1 (Exercises 1.6–1.11)
 
 This repository contains exercises from [Fullstack Open Part 1](https://fullstackopen.com/osa1/monimutkaisempi_tila_reactin_debuggaus#tehtavat-1-6-1-14)
 focusing on building a feedback application using React.
