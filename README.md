@@ -11,9 +11,8 @@ focusing on building a feedback application using React.
 
 - 1.9: Calculating statistics based on user feedback.
 
-- 1.10–1.11: Improving user experience with conditional rendering and styling.
-
-- 1.12–1.13: Refactoring components and managing state more effectively.
+- 1.10: Improving user experience with conditional rendering and styling
+- 1.11: Refactoring components and managing state more effectively.
 
 ## ⚙️ Prerequisites
 
